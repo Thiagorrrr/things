@@ -1,0 +1,24 @@
+{
+  "name": "thiago",
+  "version": "1.0.0",
+  "description": "teste",
+  "main": "script",
+  "dependencies": {
+    "body-parser": "*",
+    "consolidate": "*",
+    "dust": "*",
+    "dustjs-helpers": "*",
+    "dustjs-linkedin": "*",
+    "express": "^4.16.2",
+    "install": "^0.10.1",
+    "mongojs": "^1.4.1",
+    "npm": "^5.5.1",
+    "pg": "^7.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago",
+  "license": "ISC"
+}
